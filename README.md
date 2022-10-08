@@ -1,7 +1,7 @@
 # buscador_gifs
 
 ## Description
-This is a simple Gif Finder App made in Flutter
+This is a simple Gif Finder Example App made in Flutter
 
 ## Details
 ```diff
